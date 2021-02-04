@@ -16,4 +16,3 @@ I love coding in JS 🚀. I study at O'clock as a FullStack Developer and occass
 	<a href="https://twitter.com/VirgileC8"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
 
-![alt text](./images/bottom.svg)
